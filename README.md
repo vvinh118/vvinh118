@@ -21,11 +21,3 @@ Một sinh viên CNTT đam mê xây dựng các hệ thống phần mềm (React
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
----
-
-### 🌐 Kết nối với tôi:
-<p align="left">
-<a href="mailto:kimvu1182004@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-</p>
