@@ -10,15 +10,6 @@ Một sinh viên CNTT đam mê xây dựng các hệ thống phần mềm (React
 
 ---
 
-### 🚀 Về bản thân tôi
-
-* 💻 Hiện tại đang phát triển các ứng dụng Web/Mobile tích hợp API.
-* 🛠️ Có nền tảng vững chắc về **Kiến trúc máy tính, Hệ điều hành và Mạng máy tính**.
-* 🔍 Luôn yêu thích việc tìm tòi, đọc tài liệu kỹ thuật (Troubleshooting guides) để tối ưu hóa hiệu suất phần cứng và bảo trì hệ thống.
-* 💬 Bạn có thể hỏi tôi về: **ReactJS, TypeScript, Flutter, hoặc cách tự động hóa quy trình với n8n**.
-
----
-
 ### 💻 Công nghệ & Công cụ (Tech Stack)
 
 <p align="left"> 
